@@ -5,7 +5,7 @@
 }
 
 *:focus{
-    outline: none;
+    outline: 10%;
 
 }
 
@@ -17,7 +17,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(background.jpg);
+    background-image: url(backtest.jpg);
     background-size: cover;
     background-position: center;
     font-family: 'roboto', sans-serif;
