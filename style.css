@@ -11,6 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background:color-white;
     background-image: url( backtest.jpg);
     background-size: cover;
     background-position: center;
@@ -43,8 +44,8 @@ body{
 }
 .greeting{
     font-family: "Helvetica Neue";
-    font-size: 100px;
-    color: #fb072f;
+    font-size: 35px;
+    color: #0800ff;
     font-weight: 800;
     text-transform: capitalize;
 }
